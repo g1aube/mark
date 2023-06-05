@@ -1,7 +1,7 @@
 import sys
 
-sys.path.append('/home/vanek/mark/config')
-sys.path.append('/home/vanek/mark/database')
+sys.path.append('/home/baffeto/mark/config')
+sys.path.append('/home/baffeto/mark/database')
 
 
 from aiogram.dispatcher import FSMContext
