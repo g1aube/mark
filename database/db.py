@@ -2,7 +2,7 @@
 
 import sys
 
-sys.path.append('/home/vanek/mark/config')
+sys.path.append('/home/baffeto/mark/config')
 
 
 import psycopg2
